@@ -22,7 +22,7 @@ Example:
   
   - Krishna Bansal : I'am excited to learn more about AI and it use in coding. 
   - Piotr Moczulski : I'am excited to learn more about AI and it use in coding. 
-
+  - Sebastian S. : Hello, how is the next person doing?
 
 
 ## Usage
