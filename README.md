@@ -26,6 +26,8 @@ Example:
   - Sebastian S. : Hello, how is the next person doing?
   - Arkar Thurein : I'am excited to learn more about AI and it use in coding. 
 
+  - Beno George: Hello! I'm learning Git/GitHub and AI-assisted development.
+
 
 ## Usage
 
@@ -136,6 +138,7 @@ python main.py
 Example:
 
   -Nidhish Srinivasan Krishnassamy: Excited to start working with Python and Git!
+  - Beno George: Hello! I'm learning Git/GitHub and AI-assisted development.
 
   ### Replace [Your Name] with your actual name and feel free to personalize your comment.
 
