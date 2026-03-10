@@ -1,6 +1,6 @@
 # Hello World
 
-A simple Python script that prints "Hello, World!" to the console.t
+A simple Python script that prints "Hello, World!" to the console.
 
 This project is now used as a starting point and reference for students in the AI4SE course to practice using CoPilot for software development. It includes re-usable custom instructions and journal-logger agent configurations as well as guidelines for interacting with CoPilot and logging those interactions in a journal.
 
@@ -33,6 +33,14 @@ Run the script using Python:
 
 ```sh
 python main.py
+```
+
+### Windows note (if `python` opens Microsoft Store)
+
+If your terminal resolves `python` to `...\\WindowsApps\\python.exe` (the Microsoft Store stub), run:
+
+```powershell
+.\run.ps1
 ```
 
 ## Files

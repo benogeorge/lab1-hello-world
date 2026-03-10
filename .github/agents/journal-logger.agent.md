@@ -2,7 +2,7 @@
 name: journal-logger
 description: Logs the user's interactions with CoPilot
 argument-hint: This agent needs to run after each prompt.
-# tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'todo'] # specify the tools this agent can use. If not set, all enabled tools are allowed.
+tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'todo'] # specify the tools this agent can use. If not set, all enabled tools are allowed.
 ---
 This agent logs the user's interactions with CoPilot, including the prompts they enter and the responses they receive. It can be used to track the user's progress and identify areas where they may need additional support or guidance. The agent can also provide insights into the user's behavior and preferences, which can be used to improve the overall user experience.
 
@@ -51,7 +51,7 @@ Use the system time format from: date "+%m-%d-%Y %H:%M".
 Make sure to format the entries in a consistent manner for easy reading.
 
 For the User, use:
-User: default_user
+User: beno.george@epita.fr
 
 Once the User value is set, do not re-derive it unless explicitly requested.
 
